@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/css/main.d5d226f3.chunk.css",
-    "main.js": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/main.7f777092.chunk.js",
-    "main.js.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/main.7f777092.chunk.js.map",
+    "main.css": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/css/main.9e2c3a83.chunk.css",
+    "main.js": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/main.cfcc0584.chunk.js",
+    "main.js.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/main.cfcc0584.chunk.js.map",
     "runtime-main.js": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/runtime-main.940de468.js",
     "runtime-main.js.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/runtime-main.940de468.js.map",
     "static/css/2.984f751f.chunk.css": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/css/2.984f751f.chunk.css",
-    "static/js/2.c3a00c7b.chunk.js": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/2.c3a00c7b.chunk.js",
-    "static/js/2.c3a00c7b.chunk.js.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/2.c3a00c7b.chunk.js.map",
+    "static/js/2.91ae536a.chunk.js": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/2.91ae536a.chunk.js",
+    "static/js/2.91ae536a.chunk.js.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/2.91ae536a.chunk.js.map",
     "index.html": "https://hadassahafrokitchen.github.io/csb-o4l7it/index.html",
     "static/css/2.984f751f.chunk.css.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/css/2.984f751f.chunk.css.map",
-    "static/css/main.d5d226f3.chunk.css.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/css/main.d5d226f3.chunk.css.map",
-    "static/js/2.c3a00c7b.chunk.js.LICENSE.txt": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/2.c3a00c7b.chunk.js.LICENSE.txt",
+    "static/css/main.9e2c3a83.chunk.css.map": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/css/main.9e2c3a83.chunk.css.map",
+    "static/js/2.91ae536a.chunk.js.LICENSE.txt": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/js/2.91ae536a.chunk.js.LICENSE.txt",
     "static/media/Logo.f545f7cd.png": "https://hadassahafrokitchen.github.io/csb-o4l7it/static/media/Logo.f545f7cd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.940de468.js",
     "static/css/2.984f751f.chunk.css",
-    "static/js/2.c3a00c7b.chunk.js",
-    "static/css/main.d5d226f3.chunk.css",
-    "static/js/main.7f777092.chunk.js"
+    "static/js/2.91ae536a.chunk.js",
+    "static/css/main.9e2c3a83.chunk.css",
+    "static/js/main.cfcc0584.chunk.js"
   ]
 }
